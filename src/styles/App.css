@@ -1,1 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap'); */
+
+.weather-app {
+    margin: 0 20px;
+}
